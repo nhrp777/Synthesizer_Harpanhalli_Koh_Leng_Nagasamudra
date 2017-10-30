@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="aButton">Button A</string>
+    <string name="bButton">Button B</string>
+    <string name="cButton">Button C</string>
+    <string name="dButton">Button D</string>
+    <string name="eButton">Button E</string>
+    <string name="fButton">Button F</string>
+    <string name="gButton">Button G</string>
+</resources>
