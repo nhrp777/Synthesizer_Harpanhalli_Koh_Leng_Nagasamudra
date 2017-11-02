@@ -7,4 +7,5 @@
     <string name="eButton">Button E</string>
     <string name="fButton">Button F</string>
     <string name="gButton">Button G</string>
+    <string name="twinkleButton">Play "Twinkle, Twinkle Little Star"</string>
 </resources>
